@@ -10,4 +10,4 @@ Fonte
 
 ## ANotações da Análise
 
-* [Pandas Notebooks (anotações da análise)](aedSenadoBr.md)
+* [Pandas Notebooks (anotações da análise)](aedSenadoBr.html)
