@@ -3,4 +3,4 @@ Exploratory Data Analysis. Analise Exploratória de Dados de Contas do Senado (e
 
 Fonte: [Senado/CEAPS](https://www12.senado.leg.br/transparencia/dados-abertos-transparencia/dados-abertos-ceaps)
 
-[Pandas Notebooks (anotações da análise)](aedSenadoBr.ipynb)
+[Pandas Notebooks (anotações da análise)](aedSenadoBr.md)
